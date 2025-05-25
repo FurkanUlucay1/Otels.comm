@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\otels.com\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|c:\\users\\user\\source\\repos\\otels.com\\otels.com\\t\u00FCrkiye oteller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|solutionrelative:otels.com\\t\u00FCrkiye oteller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\t\u00FCrkiye oteller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|solutionrelative:otels.com\\t\u00FCrkiye oteller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmfransalyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|solutionrelative:otels.com\\frmfransalyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|c:\\users\\user\\source\\repos\\otels.com\\otels.com\\frmotels\u0131ralama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|solutionrelative:otels.com\\frmotels\u0131ralama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmfransaparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|solutionrelative:otels.com\\frmfransaparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|c:\\users\\user\\source\\repos\\otels.com\\otels.com\\frmfransaparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|solutionrelative:otels.com\\frmfransaparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|c:\\users\\user\\source\\repos\\otels.com\\otels.com\\frmfransalyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|solutionrelative:otels.com\\frmfransalyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmotels\u0131ralama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59A68B3D-9253-4A1B-A2D1-0C3441CBF8F5}|otels.com\\otels.com.csproj|solutionrelative:otels.com\\frmotels\u0131ralama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmFransaLyon.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmFransaLyon.cs",
+              "RelativeDocumentMoniker": "otels.com\\frmFransaLyon.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmFransaLyon.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otels.com\\frmFransaLyon.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:24:03.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmOtelS\u0131ralama.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmOtelS\u0131ralama.cs",
+              "RelativeDocumentMoniker": "otels.com\\frmOtelS\u0131ralama.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmOtelS\u0131ralama.cs",
+              "RelativeToolTip": "otels.com\\frmOtelS\u0131ralama.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgv0sAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:20:28.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "T\u00FCrkiye Oteller.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\T\u00FCrkiye Oteller.cs",
+              "RelativeDocumentMoniker": "otels.com\\T\u00FCrkiye Oteller.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\T\u00FCrkiye Oteller.cs",
+              "RelativeToolTip": "otels.com\\T\u00FCrkiye Oteller.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:15:41.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmFransaLyon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmFransaLyon.cs",
+              "RelativeDocumentMoniker": "otels.com\\frmFransaLyon.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmFransaLyon.cs",
+              "RelativeToolTip": "otels.com\\frmFransaLyon.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:33:07.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmFransaParis.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmFransaParis.cs",
+              "RelativeDocumentMoniker": "otels.com\\frmFransaParis.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmFransaParis.cs",
+              "RelativeToolTip": "otels.com\\frmFransaParis.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIA7wEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:55:41.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmFransaParis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmFransaParis.cs",
+              "RelativeDocumentMoniker": "otels.com\\frmFransaParis.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmFransaParis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otels.com\\frmFransaParis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:52:02.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "T\u00FCrkiye Oteller.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\T\u00FCrkiye Oteller.cs",
+              "RelativeDocumentMoniker": "otels.com\\T\u00FCrkiye Oteller.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\T\u00FCrkiye Oteller.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otels.com\\T\u00FCrkiye Oteller.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:17:13.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmOtelS\u0131ralama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmOtelS\u0131ralama.cs",
+              "RelativeDocumentMoniker": "otels.com\\frmOtelS\u0131ralama.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\otels.com\\otels.com\\frmOtelS\u0131ralama.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otels.com\\frmOtelS\u0131ralama.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:52:13.697Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

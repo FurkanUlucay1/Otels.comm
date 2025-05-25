@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="fmManchester.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAbdOteller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAntalyaOteller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFransaLyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFransaParis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmGirisYapma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKisiKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNewyorkOteller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmOtelSıralama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GirisSayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kişikayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Türkiye Oteller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
